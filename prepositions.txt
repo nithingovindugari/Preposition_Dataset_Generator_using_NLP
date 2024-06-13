@@ -1,0 +1,8 @@
+on
+for
+of
+to
+at
+in
+with
+by
